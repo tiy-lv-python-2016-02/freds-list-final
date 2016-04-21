@@ -1,6 +1,7 @@
-# Fred's List Social Auth
+# Fred's List Final
 
 ## Description
+This is the last time we will be playing with Fred's list this semester. 
 Using django-all-auth implement at least 2 different social authentication options in addition to the username/password option. 
 
 ## Normal Mode
